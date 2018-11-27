@@ -1,0 +1,40 @@
+﻿{
+	"arrayOfProducts": [
+		{
+			"title": "IPhone 6",
+			"description": "Phone",
+			"price": 300
+		},
+		{
+			"title": "IPhone 5",
+			"description": "Phone",
+			"price": 250
+		},
+		{
+			"title": "Nike Airmax",
+			"description": "Sport Shoes",
+			"price": 200
+		},
+		{
+			"title": "Asus N550JK",
+			"description": "Laptop",
+			"price": 750
+		},
+		{
+			"title": "Porsche",
+			"description": "Car",
+			"price": 50000
+		},
+		{
+			"title": "Audi A6",
+			"description": "Car",
+			"price": 20000
+		},
+		{
+			"title": "Lg",
+			"description": "Monitor Screen",
+			"price": 600
+		}
+		
+	]
+}

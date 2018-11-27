@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDoApp (Test App)</string>
+    <string name="main_page_header">Welcome</string>
+    <string name="product_lists">Product List</string>
+    <string name="to_download_all_product_click_the_download_button">To Download and List All Products Click This Button:</string>
+    <string name="download">Download and Show Product List</string>
+</resources>
